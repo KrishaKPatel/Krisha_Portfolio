@@ -23,16 +23,6 @@ const Work = () => {
         Projects
       </motion.h2>
 
-      <motion.p
-        className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo"
-        initial={{ opacity: 0, y: -50 }}
-        whileInView={{ opacity: 1, y: 0 }}
-        viewport={{ once: false }}
-        transition={{ duration: 0.8, delay: 0.2 }}
-      >
-        I am a Full-stack Developer from Connecticut, USA with 3 years of experience.
-      </motion.p>
-
       <motion.div
         className='grid grid-cols-auto my-10 gap-5 rounded-xl'
         initial={{ opacity: 0 }}
