@@ -34,7 +34,7 @@ const Navbar = () => {
                 <ul className={`hidden md:flex items-center justify-center gap-6 lg:gap-8 rounded-full px-10    py-2 sm:px-6 sm:py-3 ${isScroll ? "" : "bg-navBG bg-opacity-90"} text-navColor font-bold shadow-2xl text-base sm:text-sm`}>
                     <li><a className='font-Ovo hover:text-black transition duration-300' href="#top">Home</a></li>
                     <li><a className='font-Ovo hover:text-black transition duration-300' href="#about">About me</a></li>
-                    <li><a className='font-Ovo hover:text-black transition duration-300' href="#services">Experience</a></li>
+                    <li><a className='font-Ovo hover:text-black transition duration-300' href="#experience">Experience</a></li>
                     <li><a className='font-Ovo hover:text-black transition duration-300' href="#work">Projects</a></li>
                     <li><a className='font-Ovo hover:text-black transition duration-300' href="#education">Education</a></li>
                     <li><a className='font-Ovo hover:text-black transition duration-300' href="#contact">Contact me</a></li>
