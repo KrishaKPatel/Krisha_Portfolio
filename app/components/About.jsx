@@ -34,7 +34,7 @@ const About = () => {
       <div className="flex w-full flex-col lg:flex-row items-start gap-10 my-20">
   {/* Image Section (Left Side) */}
   <motion.div
-    className="lg:w-[35%] w-64 sm:w-80 max-w-none rounded-3xl overflow-hidden priority h-auto max-h-[100vh]"
+    className="lg:w-[35%] w-64 sm:w-80 max-w-none rounded-3xl overflow-hidden priority h-auto max-h-[100vh] mx-auto lg:mx-0"
     initial={{ opacity: 0, scale: 0.8 }}
     whileInView={{ opacity: 1, scale: 1 }}
     viewport={{ once: false }}
@@ -51,7 +51,7 @@ const About = () => {
     viewport={{ once: false }}
     transition={{ duration: 1, ease: 'easeInOut' }}
   >
-    <p className="mb-1 max-w-2xl font-Ovo text-justify">
+    <p className="mb-1 max-w-2xl font-Ovo text-justify mx-auto lg:mx-0">
     Full Stack Developer with expertise in React.js, Vue.js, and AngularJS, building responsive and intuitive web applications. Skilled in UI optimization, API integration, and state management (Redux, Context API). Experienced in Material-UI, Tailwind CSS, and React Bootstrap for clean, modern designs. Strong collaborator, working with designers and backend teams in Agile environments. Passionate about writing efficient, maintainable code and enhancing user experiences.
     </p>
 
