@@ -152,8 +152,8 @@ export const workData = [
 export const experienceData = [
     {
         title: 'Full-Stack Developer',
-        company: 'FedEx',
-        location: 'Remote',
+        company: 'Travelers',
+        location: 'Hartford, CT',
         dates: 'May 2024 – Present',
         description: [
             'Built and maintained responsive web applications using React.js, focusing on clean, user-friendly interfaces and improving performance across all devices.',

@@ -64,8 +64,8 @@ const Header = () => {
         </a>
 
         <a
-          href="/sample1.pdf"
-          download="sample1.pdf"
+          href="/Krisha-Resume.pdf"
+          download="Krisha-Resume.pdf"
           className="px-10 py-3 border rounded-full flex items-center gap-2 border-gray-500 text-navColor font-Ovo"
         >
           My resume <Image src={assets.download_icon} alt="download" className="w-4" />
