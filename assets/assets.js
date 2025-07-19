@@ -152,17 +152,19 @@ export const workData = [
 export const experienceData = [
     {
         title: 'Full-Stack Developer',
-        company: 'Travelers',
-        location: 'Hartford, CT',
+        company: 'SFA Marketing Communications',
+        location: 'Trumbull, CT',
         dates: 'May 2024 – Present',
         description: [
-            'Built and maintained responsive web applications using React.js, focusing on clean, user-friendly interfaces and improving performance across all devices.',
-            'Styled and optimized UI with Tailwind CSS and React Bootstrap, ensuring smooth, consistent designs and a seamless user experience.',
-            'Upgraded legacy HTML, CSS, and JavaScript applications to modern React components, enhancing performance and accessibility while reducing load times by 15%.',
-            'Integrated RESTful APIs seamlessly, handling authentication securely with JWT and OAuth to ensure smooth user experiences and data protection.',
-            'Debugged and optimized frontend applications, fixing UI glitches, improving load times, and enhancing overall responsiveness, leading to a 20% increase in efficiency.',
-            'Deployed applications on Heroku and Netlify, collaborating with DevOps teams to streamline CI/CD pipelines using Git and GitHub, ensuring faster and more reliable deployments.',
-            'Worked in Agile teams, actively participating in sprint planning, stand-ups, and retrospectives, while staying organized and improving workflow efficiency with Jira and Slack.',
+            'Built and maintained responsive websites using React.js, WordPress, ProcessWire, and Joomla, delivering customized, content-rich solutions tailored to client needs.',
+            'Designed and styled interfaces using Tailwind CSS and React Bootstrap, ensuring mobile-first, modern layouts with consistent branding across platforms.',
+            'Migrated static sites and outdated codebases to dynamic CMS platforms and modular React components, enhancing performance, accessibility, and reducing load times by 15%.',
+            'Integrated RESTful APIs into CMS and React frontends with secure JWT and OAuth authentication to ensure safe data transmission and access control.',
+            'Debugged UI issues and optimized performance across browsers and devices, resulting in a 20% boost in speed and overall user satisfaction.',
+            'Deployed and maintained websites using cPanel, managing file structures, making code updates, configuring domains, and handling hosting-related tasks based on client requirements.',
+            'Deployed additional applications using Heroku and Netlify, while streamlining CI/CD pipelines through Git and GitHub.',
+            'Analyzed website performance and SEO health using tools like Screaming Frog, generating actionable reports to identify issues such as broken links, metadata errors, and crawlability problems.',
+            'Worked in Agile teams, actively participating in sprint planning, daily stand-ups, and retrospectives. Managed tasks and project timelines using Slack and Monday.com for improved collaboration and productivity.'
         ],
     },
     {

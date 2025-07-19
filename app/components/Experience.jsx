@@ -28,7 +28,7 @@ const Experience = () => {
     return (
         <motion.div
             id="experience" // Match the ID
-            className="w-full px-[8%] py-10 scroll-mt-20 relative z-0"
+            className="w-full px-[8%] py-10 scroll-mt-20 relative z-1"
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: false }}

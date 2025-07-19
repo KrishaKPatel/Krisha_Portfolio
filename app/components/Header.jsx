@@ -45,7 +45,7 @@ const Header = () => {
         transition={{ duration: 1, delay: 0.7 }}
         className="max-w-2xl mx-auto font-Ovo"
       >
-        I am a Full-stack Developer from Connecticut, USA with 3 years of experience.
+        I am a Full-stack Developer from USA with 3 years of experience.
       </motion.p>
 
       {/* Animated buttons */}
@@ -64,8 +64,8 @@ const Header = () => {
         </a>
 
         <a
-          href="/Krisha-Resume.pdf"
-          download="Krisha-Resume.pdf"
+          href="/Krisha_Patel_Resume.pdf"
+          download="Krisha_Patel_Resume.pdf"
           className="px-10 py-3 border rounded-full flex items-center gap-2 border-gray-500 text-navColor font-Ovo"
         >
           My resume <Image src={assets.download_icon} alt="download" className="w-4" />
