@@ -51,7 +51,7 @@ const Experience = () => {
                 viewport={{ once: false }}
                 transition={{ duration: 0.8, delay: 0.2 }}
             >
-                I am a Full-stack Developer from Connecticut, USA with 3 years of experience. {/* Keep this or remove as needed */}
+                I am a Full-stack Developer from USA with 3 years of experience. {/* Keep this or remove as needed */}
             </motion.p>
 
             <motion.div
